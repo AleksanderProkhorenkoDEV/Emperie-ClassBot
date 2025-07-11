@@ -17,4 +17,4 @@ COPY . .
 RUN pnpm run build
 
 # Comando de inicio (usa ts-node para desarrollo)
-CMD ["pnpm", "start"]
+CMD ["pnpm", "dev"]
