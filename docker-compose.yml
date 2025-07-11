@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    container_name: emperie-classbot
+    env_file:
+      - .env  # Carga variables desde .env
+    volumes:
+      - ./:/app  # Monta el código para hot-reload (solo desarrollo)
+      - /app/node_modules  # Aísla node_modules
+    restart: unless-stopped
