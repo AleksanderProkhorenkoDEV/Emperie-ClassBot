@@ -5,13 +5,13 @@ WORKDIR /app
 RUN npm install -g pnpm
 
 # Copia archivos de dependencias
-COPY package.json pnpm-lock.yaml ./
+COPY ./app/package.json ./app/pnpm-lock.yaml ./
 
 # Instala dependencias
-RUN pnpm install
+RUN pnpm install    
 
 # Copia el resto del código
-COPY . .
+COPY ./app .
 
 # Compila TypeScript (si es necesario)
 RUN pnpm run build
