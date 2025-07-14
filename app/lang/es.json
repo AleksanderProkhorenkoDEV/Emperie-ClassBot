@@ -1,5 +1,6 @@
 {
-    "welcome": {
-        "title": "¡Bienvenido {{name}}!"
-    }
+  "welcome": {
+    "title": "*¡Bienvenido {{name}}!*",
+    "description": "Soy el bot oficial de *Emperie Nails*, tu asistente para *conocer toda nuestra formación*.\n\n💡 No puedo responder preguntas personalizadas, pero puedo guiarte con estos comandos:\n\n📚 /cursos — Ver todos nuestros cursos disponibles.\n📅 /eventos — Consulta los próximos talleres y formaciones.\n❓ /ayuda — Aprende cómo usar este bot.\n\nEscribe uno de los comandos para comenzar. ¡Estamos aquí para ayudarte a crecer como profesional!"
+  }
 }
