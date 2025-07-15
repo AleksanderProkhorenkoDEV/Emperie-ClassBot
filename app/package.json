@@ -2,9 +2,9 @@
   "name": "Emperie-ClassBot",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "ts-node src/index.ts",
     "build": "tsc",
-    "dev": "nodemon --watch . --exec ts-node index.ts"
+    "dev": "nodemon --watch . --exec ts-node src/index.ts"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"
