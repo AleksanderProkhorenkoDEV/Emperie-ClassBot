@@ -1,6 +1,7 @@
 FROM node:23-alpine
 WORKDIR /app
 
+EXPOSE 3000 
 # Instala pnpm globalmente
 RUN npm install -g pnpm
 
@@ -15,6 +16,5 @@ COPY ./app .
 
 # Compila TypeScript (si es necesario)
 RUN pnpm run build
-
 # Comando de inicio (usa ts-node para desarrollo)
 CMD ["pnpm", "dev"]
