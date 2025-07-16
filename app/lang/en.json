@@ -25,5 +25,9 @@
     "details": "✅ Lifetime access to the private group.\n✅ Support and Q&A.\n✅ Prizes and recognition for top participants.",
     "stampingDate": "📅 <b>Starts:</b> August 2, 2025.\nDon’t miss your chance — spots are limited!",
     "stampingRegister": "📲 <b>Ready to join?</b> Message me privately and reserve your place today."
+  },
+  "help": {
+    "title": "❓ How to use this bot?",
+    "description": "This bot is your guide to learning everything about <b>Emperie Nails</b> training. It doesn’t answer personal questions, but you can access all the details easily using the following commands:\n\n<b>Available commands:</b>\n\n📚 <b>/stamping</b> – View an overview of the Stamping Art Marathon course.\n🔎 <b>/details</b> – Learn how the course works, what’s included, and how it’s structured.\n🏆 <b>/awards</b> – Find out what you can win by completing the course.\n💰 <b>/price</b> – Check pricing, start dates, and how to enroll.\n❓ <b>/help</b> – Display this help message.\n\n🛎️ <b>How to use it?</b>\nJust type or click any of the commands to get the information directly.\n\nWhen you're ready to sign up, go to the /price command and follow the steps to contact us."
   }
 }

@@ -27,5 +27,9 @@
     "details": "✅ Acceso para siempre al grupo privado.\n✅ Apoyo y resolución de dudas.\n✅ Premios y reconocimiento para las mejores participantes.",
     "stampingDate": "📅 <b>Inicio:</b> 2 de agosto de 2025.\nNo te quedes fuera, ¡las plazas son limitadas!",
     "stampingRegister": "📲 <b>¿Lista para empezar?</b> Escríbeme por privado y asegura tu plaza hoy mismo."
+  },
+  "help": {
+    "title": "❓ ¿Cómo usar este bot?",
+    "description": "Este bot es tu guía para conocer toda la formación de <b>Emperie Nails</b>. Aquí no se responden dudas personalizadas, pero puedes obtener toda la información de manera clara y rápida a través de comandos.\n\n<b>Comandos disponibles:</b>\n\n📚 <b>/stamping</b> – Ver resumen general del curso Stamping Art Maratón.\n🔎 <b>/detalles</b> – Conoce cómo funciona la formación, cómo se estructura y qué incluye.\n🏆 <b>/premios</b> – Descubre qué puedes obtener si completas el curso.\n💰 <b>/precio</b> – Consulta el coste, fechas de inicio y cómo inscribirte.\n❓ <b>/ayuda</b> – Muestra este mensaje de ayuda.\n\n🛎️ <b>¿Cómo usarlo?</b>\nEscribe o pulsa cualquiera de los comandos anteriores y recibirás la información directamente.\n\nSi luego quieres inscribirte, simplemente ve al comando /precio y sigue las indicaciones para contactarnos."
   }
 }
