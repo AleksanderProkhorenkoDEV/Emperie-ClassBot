@@ -1,6 +1,9 @@
 import TelegramBot from "node-telegram-bot-api";
-import { traslate } from "../i18n";
+import { traslate } from "../../i18n";
 import fs from 'node:fs';
+import { detallesStamping } from "./detalles";
+import { premiosStamping } from "./premios";
+import { stampingPrince } from "./precio";
 
 export const stamping = (bot: TelegramBot) => {
   bot.onText(/\/stamping/, (msg) => {
@@ -22,4 +25,8 @@ export const stamping = (bot: TelegramBot) => {
       }
     );
   });
+
+  detallesStamping(bot)
+  premiosStamping(bot)
+  stampingPrince(bot)
 };
