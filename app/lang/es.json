@@ -1,7 +1,7 @@
 {
   "welcome": {
     "title": "<b>¡Bienvenido {{name}}!</b>",
-    "description": "Soy el bot oficial de <b>Emperie Nails</b>, tu asistente para <b>conocer toda nuestra formación</b>.\n\n💡 No puedo responder preguntas personalizadas, pero puedo guiarte con estos comandos:\n\n📚 /cursos — Ver todos nuestros cursos disponibles.\n❓ /ayuda — Aprende cómo usar este bot.\n\nEscribe uno de los comandos para comenzar. ¡Estamos aquí para ayudarte a crecer como profesional!"
+    "description": "Soy el bot oficial de <b>Emperie Nails</b>, tu asistente para <b>conocer toda nuestra formación</b>.\n\n💡 No puedo responder preguntas personalizadas, pero puedo guiarte con estos comandos:\n\n📚 /stamping — Ver nuestro curso de stamping.\n❓ /ayuda — Aprende cómo usar este bot.\n\nEscribe uno de los comandos para comenzar. ¡Estamos aquí para ayudarte a crecer como profesional!"
   },
   "stampingNailMaraton": {
     "title": "<b>Stamping Art Maratón</b>",
