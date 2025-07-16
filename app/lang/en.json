@@ -1,6 +1,10 @@
 {
   "welcome": {
-    "title": "*Welcome {{name}}!*",
-    "description": "I am the official *Emperie Nails* bot, your assistant to *explore all our training options*.\n\n💡 I can't answer personalized questions, but I can guide you with these commands:\n\n📚 /courses — View all our available courses.\n📅 /events — Check out upcoming workshops and training sessions.\n❓ /help — Learn how to use this bot.\n\nType one of the commands to get started. We're here to help you grow as a professional!"
+    "title": "<b>Welcome {{name}}!</b>",
+    "description": "I am the official <b>Emperie Nails</b> bot, your assistant to <b>explore all our training</b>.\n\n💡 I can't answer personalized questions, but I can guide you with these commands:\n\n📚 /stamping — See our stamping course.\n❓ /help — Learn how to use this bot.\n\nType one of the commands to get started. We're here to help you grow as a professional!"
+  },
+  "stampingNailMaraton": {
+    "title": "<b>Stamping Art Marathon</b>",
+    "summary": "The Stamping Art Marathon is much more than just a challenge or contest:\n It’s an <b>intensive</b> mini-training designed to help you learn techniques, develop your creativity, and also improve your visibility as a professional.\n\n During the marathon, we'll work together from scratch:\n  🎨 You’ll learn to <b>master Stamping Art techniques</b>.\n  🖌️<b>You’ll create unique and professional designs</b>, and also learn how to take a step further in your career.\n\nIt’s not about winning prizes — <b>although there are recognitions for the winners</b> — but about gaining something far more valuable: 💡 <b>knowledge, confidence, and growth in your art</b>.\n\n ✨ There are no other speakers here: just you and me, pouring all my experience into you so you can shine.\n\nIf you want to learn, grow, and enjoy."
   }
 }
