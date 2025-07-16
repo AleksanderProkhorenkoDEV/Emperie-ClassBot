@@ -5,6 +5,27 @@
   },
   "stampingNailMaraton": {
     "title": "<b>Stamping Art Maratón</b>",
-    "summary": "El Stamping Art Maratón es mucho más que un simple reto o concurso:\n Es una mini formación <b>intensiva</b>, diseñada para que aprendas técnicas, desarrolles tu creatividad y además mejores tu visibilidad como profesional.\n\n Durante el maratón, trabajaremos junt@s desde cero:\n  🎨 Aprenderás a <b>dominar técnicas de Stamping Art</b>.\n  🖌️<b>Crearás diseños únicos y profesionales</b>, además de aprender cómo dar un paso más en tu carrera.\n\nNo se trata de ganar premios — <b>aunque sí hay reconocimientos para las ganadoras</b> — sino de llevarte algo mucho más valioso: 💡 <b>conocimiento, confianza y evolución en tu arte</b>.\n\n ✨ Aquí no hay otros speakers: solo tú y yo, volcando toda mi experiencia en ti para que brilles.\n\nSi quieres aprender, crecer y disfrutar."
+    "summary": "El Stamping Art Maratón es mucho más que un simple reto o concurso:\n Es una mini formación <b>intensiva</b>, diseñada para que aprendas técnicas, desarrolles tu creatividad y además mejores tu visibilidad como profesional.\n\n Durante el maratón, trabajaremos junt@s desde cero:\n  🎨 Aprenderás a <b>dominar técnicas de Stamping Art</b>.\n  🖌️<b>Crearás diseños únicos y profesionales</b>, además de aprender cómo dar un paso más en tu carrera.\n\nNo se trata de ganar premios — <b>aunque sí hay reconocimientos para las ganadoras</b> — sino de llevarte algo mucho más valioso: 💡 <b>conocimiento, confianza y evolución en tu arte</b>.\n\n ✨ Aquí no hay otros speakers: solo tú y yo, volcando toda mi experiencia en ti para que brilles.\n\nSi quieres aprender, crecer y disfrutar:\n🔎 /detalles – Conoce cómo es la formación, su contenido y metodología.\n🏆 /premios - Descubre lo que obtendrás al completar el curso.\n💰 /precio - Consulta precios, promociones y plazas de inscripción."
+  },
+  "stampingDetails": {
+    "titlePlanning": "🏆 Planning del Stamping Art Maratón 🏆",
+    "summaryPlanning": "Un maratón <b>diferente</b>, donde la meta no son los premios... sino todo lo que aprendes por el camino.\n\nAccederás a un grupo privado de Telegram <b>para siempre</b>, con apoyo, contenido exclusivo y una experiencia única.\n\n<b>¿Cómo funcionará?</b>\n\n✅ Grupo privado en Telegram con acceso permanente.\nTodo el contenido se publicará allí, podrás resolver dudas y compartir tus avances con otras participantes.",
+
+    "titleDinamica": "🖌️ Dinámica semanal",
+    "summaryDinamica": "🎨 Cada semana (los sábados), publicaré en el grupo:\n\n· Un diseño nuevo explicado paso a paso.\n· Lista de materiales utilizados.\n· Vídeo o guía mostrando la técnica y composición.\n\n✨ Tu reto será recrear la técnica adaptándola a las placas y colores que tú tengas.\nLo importante es activar tu creatividad y dominar nuevas técnicas.",
+
+    "titleTiempos": "⏳ Tiempos y apoyo continuo",
+    "summaryTiempos": "Tendrás una semana para realizar cada diseño. Cuando lo termines, lo publicarás en tu Instagram etiquetándome para que pueda verlo.\n\n🤝 Durante la semana tendrás acceso al chat del grupo para resolver dudas, compartir tus avances y recibir feedback personalizado."
+  },
+  "stampingAwards": {
+    "title": "🥇 Premios y reconocimiento 🥇",
+    "summary": "Si completas al menos cuatro diseños, ¡entrarás automáticamente en la ronda de finalistas!\n\nYo misma seleccionaré los mejores trabajos para una <b>votación abierta</b> en redes.\n\n🎉 Los tres ganadores recibirán:\n· 🥇 Medalla digital y título de finalista.\n· 🎁 Un kit exclusivo de materiales para seguir creando.\n\n✨ Más que un concurso, es una mini formación para que crezcas, te motives y brilles con tu arte.\n\n¿Lista para demostrar de lo que eres capaz? ¡Este es tu momento!"
+  },
+  "stampingPrice": {
+    "title": "🎨✨ ¡Inscripciones abiertas para el Stamping Art Maratón! ✨🎨",
+    "summary": "Un reto, una formación práctica y un impulso a tu creatividad.\n\nPor solo <b>10 €</b> accedes al grupo privado de Telegram donde cada semana aprenderás nuevas técnicas y composiciones de Stamping Art.\n\n<b>¿Qué incluye?</b>",
+    "details": "✅ Acceso para siempre al grupo privado.\n✅ Apoyo y resolución de dudas.\n✅ Premios y reconocimiento para las mejores participantes.",
+    "stampingDate": "📅 <b>Inicio:</b> 2 de agosto de 2025.\nNo te quedes fuera, ¡las plazas son limitadas!",
+    "stampingRegister": "📲 <b>¿Lista para empezar?</b> Escríbeme por privado y asegura tu plaza hoy mismo."
   }
 }

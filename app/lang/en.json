@@ -1,10 +1,29 @@
 {
   "welcome": {
     "title": "<b>Welcome {{name}}!</b>",
-    "description": "I am the official <b>Emperie Nails</b> bot, your assistant to <b>explore all our training</b>.\n\n💡 I can't answer personalized questions, but I can guide you with these commands:\n\n📚 /stamping — See our stamping course.\n❓ /help — Learn how to use this bot.\n\nType one of the commands to get started. We're here to help you grow as a professional!"
+    "description": "I'm the official <b>Emperie Nails</b> bot, your assistant to <b>explore all our training programs</b>.\n\n💡 I can't answer personalized questions, but I can guide you with these commands:\n\n📚 /stamping — View our stamping course.\n❓ /help — Learn how to use this bot.\n\nType one of the commands to get started. We're here to help you grow as a professional!"
   },
   "stampingNailMaraton": {
     "title": "<b>Stamping Art Marathon</b>",
-    "summary": "The Stamping Art Marathon is much more than just a challenge or contest:\n It’s an <b>intensive</b> mini-training designed to help you learn techniques, develop your creativity, and also improve your visibility as a professional.\n\n During the marathon, we'll work together from scratch:\n  🎨 You’ll learn to <b>master Stamping Art techniques</b>.\n  🖌️<b>You’ll create unique and professional designs</b>, and also learn how to take a step further in your career.\n\nIt’s not about winning prizes — <b>although there are recognitions for the winners</b> — but about gaining something far more valuable: 💡 <b>knowledge, confidence, and growth in your art</b>.\n\n ✨ There are no other speakers here: just you and me, pouring all my experience into you so you can shine.\n\nIf you want to learn, grow, and enjoy."
+    "summary": "The Stamping Art Marathon is much more than just a challenge or contest:\n It's an <b>intensive</b> mini-training designed for you to learn techniques, boost your creativity, and increase your visibility as a professional.\n\n During the marathon, we'll work together from scratch:\n  🎨 You will <b>master Stamping Art techniques</b>.\n  🖌️<b>Create unique and professional designs</b>, and learn how to take the next step in your career.\n\nIt’s not about winning prizes — <b>although there are recognitions for the winners</b> — but about gaining something much more valuable: 💡 <b>knowledge, confidence, and growth in your art</b>.\n\n ✨ There are no other speakers here: just you and me, pouring all my experience into you so you can shine.\n\nIf you want to learn, grow, and enjoy:\n🔎 /details – Learn what the training is like, content and methodology.\n🏆 /rewards – Discover what you'll gain after completing the course.\n💰 /price – See pricing, promotions, and enrollment deadlines."
+  },
+  "stampingDetails": {
+    "titlePlanning": "🏆 Stamping Art Marathon Planning 🏆",
+    "summaryPlanning": "A <b>different kind</b> of marathon — here the goal isn't winning prizes, but what you learn along the way.\n\nYou'll get <b>lifetime access</b> to a private Telegram group, with support, exclusive content, and a unique experience.\n\n<b>How does it work?</b>\n\n✅ Private Telegram group with permanent access.\nAll content will be shared there, and you'll be able to ask questions and share your progress with others.",
+    "titleDinamica": "🖌️ Weekly Dynamic",
+    "summaryDinamica": "🎨 Every Saturday, I’ll post in the group:\n\n· A new design, explained step by step.\n· List of materials used.\n· Video or tutorial showing the technique and composition.\n\n✨ Your challenge is to recreate the technique, using your own stamping plates and colors.\nThe goal is to spark your creativity and master new skills.",
+    "titleTiempos": "⏳ Timing & Support",
+    "summaryTiempos": "You’ll have one week to complete each design. Once it’s ready, publish it on your Instagram profile and tag me so I can see it.\n\n🤝 Throughout the week, the chat will be open for questions, sharing progress, and getting personalized feedback."
+  },
+  "stampingAwards": {
+    "title": "🥇 Prizes and Recognition 🥇",
+    "summary": "If you complete at least four designs, you’ll automatically become a finalist!\n\nI will select the best entries, which will then go to an <b>open voting</b> round on social media.\n\n🎉 The top 3 winners will receive:\n· 🥇 A digital medal and finalist title.\n· 🎁 An exclusive kit of materials.\n\n✨ This is more than a contest — it's a mini training to help you grow, get inspired, and level up your art.\n\nReady to show what you’re capable of? <b>This is your moment!</b>"
+  },
+  "stampingPrice": {
+    "title": "🎨✨ Stamping Art Marathon Registration Is Open! ✨🎨",
+    "summary": "A challenge, practical training, and a creative boost.\n\nFor just <b>€10</b>, you get access to the private Telegram group and weekly lessons in Stamping Art techniques and compositions.\n\n<b>What’s included?</b>",
+    "details": "✅ Lifetime access to the private group.\n✅ Support and Q&A.\n✅ Prizes and recognition for top participants.",
+    "stampingDate": "📅 <b>Starts:</b> August 2, 2025.\nDon’t miss your chance — spots are limited!",
+    "stampingRegister": "📲 <b>Ready to join?</b> Message me privately and reserve your place today."
   }
 }
