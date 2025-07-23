@@ -5,7 +5,7 @@
 ## Características
 - 🌍 Tradución automática del mensaje, obteniendo el idioma del pérfil del usuario.  
 - 💡 Comando /ayuda, para usuarios que no entiendan como funciona.  
-- Comando /start donde inicias el proceso de información detallado paso a paso.  
+- 🏁 Comando /start donde inicias el proceso de información detallado paso a paso.  
 
 ## Tecnologías
 ### Core
