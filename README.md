@@ -17,6 +17,6 @@
 [![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-0.61+-26A5E4)](https://github.com/yagop/node-telegram-bot-api)
 [![Nodemon](https://img.shields.io/badge/Nodemon-3.1-76D04B?logo=nodemon&logoColor=white)](https://nodemon.io/)
 
-###Principales Librerías
+### Principales Librerías
 - node-telegram-bot-api -> [documentación](https://github.com/yagop/node-telegram-bot-api/tree/master/doc)
 - nodemon -> v^3.1.10
