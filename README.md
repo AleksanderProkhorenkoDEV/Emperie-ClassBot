@@ -9,9 +9,9 @@
 
 ## Tecnologías
 ### Core
-[![Node.js](https://img.shields.io/badge/Node.js-18.x+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-23.x+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PNPM](https://img.shields.io/badge/pnpm-8.x+-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![PNPM](https://img.shields.io/badge/pnpm-10.x+-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 
 ### Librerías Principales
 [![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-0.61+-26A5E4)](https://github.com/yagop/node-telegram-bot-api)
